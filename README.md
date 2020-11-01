@@ -1,4 +1,4 @@
-### Hi there 👋
+--### Hi there 👋
 
 <!--
 **Sumit-Budhiraja/Sumit-Budhiraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Sumit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at SSIPMT Raipur 👨‍🎓
+I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at Chitkara University. 👨‍🎓
 
 - 🔭 I’m currently working on taking rest  
 - 🌱 I’m currently learning about Data Structures , Unix System 
@@ -33,7 +33,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 
 ### Some Stats About Raghav (Public Only)
 <p align="center" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Sumit-Budhiraja&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
