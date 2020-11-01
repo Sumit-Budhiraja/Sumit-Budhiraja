@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at Chitkara University. 👨‍🎓
 
-- 🔭 I’m currently working on my Development Skills.  
+- 🔭 I’m currently working on my Web Development Skills.  
 - 🌱 I’m passionate about Data Structures and Flutter. 
 - 👯 I’m looking to collaborate on Flutter, JAVA and Web development Projects.
 - 🤔 I’m looking for help in learning about JavaScript. 
