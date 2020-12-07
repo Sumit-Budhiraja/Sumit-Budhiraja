@@ -33,7 +33,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 
 ### Some Stats About Sumit (Public Only)
 <p align="center" >
-<img alt="Sumit's github stats" src="https://github-readme-stats.vercel.app/api?username=Sumit-Budhiraj&show_icons=true&theme=merko"  > </p>
+<img alt="Sumit's github stats" src="https://github-readme-stats.vercel.app/api?username=Sumit-Budhiraja&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Sumit-Budhiraja">Check more about me here 🌟 </a>
 
